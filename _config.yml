@@ -1,1 +1,11 @@
+title: Damarla Venkata Sai Chandana # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Open source enthusiast | Philomath | Tech enthusiast
+  <br><br>
+  <a href="mailto:dvs6112001@gmail.com">dvs6112001@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/dvs-chandana/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/chandu6111/">Gihub</a> 
 theme: jekyll-theme-minimal
